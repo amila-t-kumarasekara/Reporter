@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568620207352",
+    "project_id": "report-a-scene-fdde3",
+    "storage_bucket": "report-a-scene-fdde3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568620207352:android:e1a632ec287ba55c6bbf0d",
+        "android_client_info": {
+          "package_name": "com.example.reportascene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568620207352-4l1hss6rdp0479dkhov8uc7ra5hk1q0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-nrIgP7hk-KZBumj_9qDdqJShlpk-Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568620207352-4l1hss6rdp0479dkhov8uc7ra5hk1q0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
